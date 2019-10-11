@@ -6,7 +6,7 @@
 '''
 
 def minha_funcao(valor):
-    return (valor * valor) / 2 * -1
+    return (valor * valor) * -1
 
 def my_map(lista, qualquer_outra_funcao):
     temp = []
